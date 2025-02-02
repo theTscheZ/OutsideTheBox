@@ -15,5 +15,8 @@
 			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
